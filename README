@@ -1,0 +1,50 @@
+COVID-19 Dashboard: Cases , Recoveries And Vaccination Progress.
+Introduction : The COVID-19 pandemic has a profound global impact, highlighting the importance of data-driven decision-making. This Power Bi dashboard is designed to visualize key metrics related to COVID -19  cases and vaccination progress across the world and within the state /country. By integrating datasets and creating a dynamic and interactive comprehensive view of confirmed cases, recoveries , death, and vaccination statistics. To make professionals to monitor trends, compare regional performance, and assess the effectiveness of vaccination efforts,
+1. KPIS (Cards) :  is used to find out an exact value for covid cases:                                                        
+Total Confirmed Cases : 8BM
+Total Deceases :110M
+Total Recoveries :8BM
+Total vaccinated Globally :8BM
+Fully Vaccinated persons :43.57
+2.  Line Chart :
+COVID-19 “Trends Over Time”
+X-axis : Date
+Y-axis : Cases
+Lines : Confirmed ,Deceased and Recovered
+3.Bar Chart :
+ Title : “Top 10 Countries by Confirmed Cases”
+X-axis : Country
+Y-axis : Total Confirmed Cases
+Use stacked bar to include recoveries.
+4. Donut Chart : 
+Title: “Global Distribution of Vaccine Tyes”
+Legend : Vaccine type  
+Values : Count of Doses Administered
+5.Gague Chart : 
+Title : Global Vaccination Progress
+Value : 65%
+Target : 100%
+6. Slicers : 
+Add slicers on the side or top : 
+Date
+Country / State
+WHO Region
+This allows users to filter the whole dashboard dynamically.
+7. Map Visualization : 
+Title : “Global Vaccination Case Spread”
+Use a Map to display :
+Circle size foe Total Confirmed Cases
+Color intensity for Vaccination Rate .
+8. Date slicer : 
+Use a date slicer to let users to analyze the trends over :
+Specific weeks/months 
+9.  Interactivity : 
+Make sure clicking on a country or sate filters the other visuals.
+Enable cross-filtering and highlight interaction where appropriate.
+10.Final Touch :
+Add titles to every visual. 
+Use tooltips to show details (like daily changes).
+Group visuals into sections : Cases , Vaccination , Geography.
+Conclusion :
+The Power BI dashboard effectively presents critical COVID-19 and vaccination data through interactive visualizations and key performance indicators. It allows users to filter by date, country, state, and WHO region, offering a flexible and detailed analysis. The insights derived from the dashboard can support timely interventions and strategic planning. Overall, this report highlights the value of real-time analytics in managing public health crises and demonstrates how data visualization can enhance understanding and response during a global pandemic.
+
